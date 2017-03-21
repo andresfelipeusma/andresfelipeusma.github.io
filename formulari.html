@@ -1,0 +1,119 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ca" lang="ca">
+  <head>
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Matricula Gimnás</title>
+    <link rel="stylesheet" href="style.css"/>    
+  </head>
+  <body>
+	<h1> Matricula Gimnás</h1>
+	<form id="form1" action="cgi-bin/form.py">
+		<table id="table1" border="5" cellpadding="4" width="50%"> 
+			<tr>	
+				<td><label>Nom: </label></td>
+				<td><input type="text" name="name"></input></td>
+			</tr>
+			<tr>	
+				<td><label>Cognom: </label></td>
+				<td><input type="text" name="cognom"></input></td>
+			</tr>
+			<tr>	
+				<td><label>Dni: </label></td>
+				<td><input type="text" name="dni"></input></td>
+			</tr>
+			<tr>	
+				<td><label>Edat: </label></td>
+				<td>
+					<select name="edat" id="select1">
+						<option value="SELEC">Selecciona la teva edat...</option>						
+						<option value="16-18">16-18</option>
+						<option value="19-30">19-30</option>
+						<option value="30-50">30-50</option>	
+						<option value="50+">50+</option>											
+					</select>					
+				</td>
+			</tr>							
+			<tr>	
+				<td><label>Sexe: </label></td>
+				<td colspan="2">
+				Masculí<input type="radio" name="sexe" value="Sexe_Masculi"></input>
+				Femení<input type="radio" name="sexe" value="Sexe_Femeni"></input>
+				N/E<input type="radio" name="sexe" value="Sexe_N/E"></input>				
+				</td>
+			</tr>
+			<tr>	
+				<td><label>Nacionalitat: </label></td>
+				<td>
+					<select name="nacionalitat" id="select2">
+						<option value="SELEC">Selecciona la teva nacionalitat...</option>						
+						<option value="ESP">ESPANYA</option>
+						<option value="COl">COLOMBIA</option>
+						<option value="FR">FRANÇA</option>	
+						<option value="ITA">ITALIA</option>											
+					</select>					
+				</td>
+			</tr>
+			<tr>	
+				<td><label>Movil: </label></td>
+				<td>
+					<select name="indicador_telf" id="select3">						
+						<option value="34">+34</option>
+						<option value="109">+109</option>
+						<option value="23">+23</option>	
+						<option value="18">+18</option>											
+					</select>							
+					<input type="text" name="telefon"></input>
+				</td>
+			</tr>
+			<tr>	
+				<td><label>Telefon Fixe: </label></td>
+				<td><input type="text" name="telefon_fixe"></input></td>
+			</tr>
+			<tr>	
+				<td><label>Tipus de cuota i horaris: </label></td>
+				<td>
+					<ol>
+						<li>Normal -> 20€/MES + Matricula<input type="radio" name="cuota" value="tipus_cuota"></input></li>
+						<li>Premium -> 40€/MES + Matricula<input type="radio" name="cuota" value="tipus_cuota"></input></li>
+						<li>VIP -> 60€/MES (Matricula Gratis)<input type="radio" name="cuota" value="tipus_cuota"></input></li>			
+					</ol>
+				</td>
+			</tr>
+			<tr>	
+				<td><label>Horaris: </label></td>
+				<td>
+					<ul>
+						<li>Entrada: 8-13h -> 10€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>
+						<li>Entrada: 14-19h -> 20€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>
+						<li>Entrada: 24h -> 30€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>												
+					</ul>
+				</td>
+			</tr>	
+			<tr>	
+				<td><label>Altres Serveis Opcionals: </label></td>
+				<td>
+					<ul>
+						<li>Boxeo -> 5€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>
+						<li>Piscina -> 10€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>
+						<li>Muay Thai -> 30€ Adicionals<input type="checkbox" name="horari" value="tipushorari"></input></li>												
+					</ul>
+				</td>
+			</tr>
+			<tr>	
+				<td colspan="2">
+					<input type="checkbox" name="acceptar_termes" value="termesicondic"></input>
+					<label>Acepta els <a href="http:://termes.com">termes i condicions</a> de aquesta matricula.</label>
+				</td>
+			</tr>	
+			<tr>	
+				<td colspan="2">
+					<input id="acceptbutton" type="submit" name="acceptbutton" value="Continuar amb el pagament"></input>
+					<input id="resetbutton" type="reset" name="resetbutton" value="Reiniciar formulari"></input>
+				</td>
+			</tr>																	
+		</table>
+	</form>
+  </body>
+</html>
