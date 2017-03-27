@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: "Andres Felipe Usma, EDT Cop, Launches Site"
 date: 2017-03-27
 ---
