@@ -1,2 +1,3 @@
 name: Andres Felipe Usma Montenegro
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
