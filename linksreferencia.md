@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Links d'ajuda
-description: Web amb alguns links de referencia.
+title: Paginas Interesantes
+description: Algunos links interesantes.
 ---
-## Links d'ajuda
-1r - Red Hat page
-[Red Hat page]: https://www.redhat.com/es
+## Paginas Interesantes
 
-## Features
+[Xataka](https://www.xataka.com/ "Xataka")
 
+[Computer Hoy](http://computerhoy.com/ "Computer Hoy")
 
+## Canales de Youtube
 
+[Xataka](https://www.youtube.com/user/XatakaTV "Xataka Canal")
 
+[Computer Hoy Canal](https://www.youtube.com/user/ComputerhoyTV "CH canal")
