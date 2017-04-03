@@ -1,8 +1,7 @@
 ---
-title: Benvinguts al meu primer Jekyll
-description: Aquesta es el primer blog al que li implemento Jekyll.
-header: Primer Jekyll
+title: Bienvenidos a Andres Tech
+description: Primer blog al que le implemento Jekyll.
+header: Bienvenidos a Andres Tech
 ---
-Hola, em dic Andrés i aquest sera el meu primer Jekyll on pujaré informació
-actual sobre els sistemes linux.
+Hola, soy Andrés y este será mi "intento" de Jekyll donde iré informando sobre la tecnologia actual, smartphones, noticias interesantes...
 
