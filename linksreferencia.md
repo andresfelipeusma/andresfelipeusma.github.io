@@ -3,13 +3,13 @@ layout: page
 title: Paginas Interesantes
 description: Algunos links interesantes.
 ---
-## Paginas Interesantes
+### Paginas Interesantes
 
-[Xataka](https://www.xataka.com/ "Xataka")
+[![Xataka](img/xataka_logo.png)](https://www.xataka.com/)
 
-[Computer Hoy](http://computerhoy.com/ "Computer Hoy")
+[![CH](img/CH_logo.png)](http://computerhoy.com/)
 
-## Canales de Youtube
+### Canales de Youtube
 
 [Xataka](https://www.youtube.com/user/XatakaTV "Xataka Canal")
 
