@@ -7,8 +7,8 @@ description: Algunos links interesantes.
 
 | | [![Xataka](img/xataka_logo.png){:height="350px" width="300px"}](https://www.xataka.com/) |
 
-[Xataka Canal Youtube](https://www.youtube.com/user/XatakaTV "Xataka Canal")
+[Xataka Canal Youtube](https://www.youtube.com/user/XatakaTV "Xataka Youtube")
 
 | | [![CH](img/CH_logo.png){:height="350px" width="300px"}](http://computerhoy.com/) |
 
-[Computer Hoy Canal](https://www.youtube.com/user/ComputerhoyTV "CH canal")
+[Computer Hoy Youtube](https://www.youtube.com/user/ComputerhoyTV "CH Youtube")
