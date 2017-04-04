@@ -7,7 +7,7 @@ description: Mis redes sociales.
 
 |  | [![Twitter](img/twitter_logo.png){:height="50px" width="50px"}](https://twitter.com/AFelipe26 "Twitter") |
 
-[![Facebook](img/facebook_logo.png){:height="50px" width="50px"}](https://www.facebook.com/AndresFelipeUsma "Facebook")
+| | [![Facebook](img/facebook_logo.png){:height="50px" width="50px"}](https://www.facebook.com/AndresFelipeUsma "Facebook") |
 
-[![Mi mail](img/mailto_logo.png){:height="50px" width="50px"}](mailto:andresfelipeusma@gmail.com "Mi mail")
+| | [![Mi mail](img/mail_logo.png){:height="50px" width="50px"}](mailto:andresfelipeusma@gmail.com "Mi mail") |
 
