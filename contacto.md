@@ -7,4 +7,5 @@ description: Mis redes sociales.
 
 [![Twitter](img/twitter_logo.png){:height="50px" width="50px"}](https://twitter.com/AFelipe26 "Twitter")
 
-[Facebook](https://www.facebook.com/AndresFelipeUsma "Facebook")
+[![Facebook](img/facebook_logo.png){:height="50px" width="50px"}](https://www.facebook.com/AndresFelipeUsma "Facebook")
+
