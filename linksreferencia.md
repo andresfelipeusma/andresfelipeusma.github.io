@@ -5,8 +5,10 @@ description: Algunos links interesantes.
 ---
 ### Paginas Interesantes
 
-[![Xataka](img/xataka_logo.png){:height="200px" width="250px"}](https://www.xataka.com/) 
+| | [![Xataka](img/xataka_logo.png){:height="200px" width="250px"}](https://www.xataka.com/) |
+
 [Xataka Canal Youtube](https://www.youtube.com/user/XatakaTV "Xataka Canal")
 
-[![CH](img/CH_logo.png){:height="200px" width="250px"}](http://computerhoy.com/) 
+| | [![CH](img/CH_logo.png){:height="200px" width="250px"}](http://computerhoy.com/) |
+
 [Computer Hoy Canal](https://www.youtube.com/user/ComputerhoyTV "CH canal")
