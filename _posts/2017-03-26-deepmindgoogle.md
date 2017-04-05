@@ -6,7 +6,7 @@ author: Andres Usma
 categories: ciencia
 ---
 
-[![DeepMind](img/deepmind.png)](https://deepmind.com/)
+[![DeepMind](../img/deepmind.png)](https://deepmind.com/)
 
 **DeepMind** ya ha dominado varios juegos de Atari. Para esto se ha necesitado 
 programación especifica para cada juego. Ahora, gracias a un nuevo algoritmo 
@@ -21,7 +21,7 @@ objetos físicos, hasta jugar StarCraft II, e incluso la han "enseñado"
 a colaborar y competir con otro sistema de IA. Pero hoy estamos ante un nuevo hito, 
 ya que DeepMind está estrenando la capacidad de tener "memoria".
 
-![Mario](img/mario.png "Mario")
+![Mario](../img/mario.png "Mario")
 
 Los responsables de DeepMind lograron el año pasado que el sistema fuera 
 capaz de derrotar juegos de Atari, incluso superando las puntuaciones de 
@@ -35,6 +35,6 @@ la artificial ha sido incapaz de transferir ese aprendizaje a una nueva tarea.
 Pero ahora, gracias al EWC la red neuronal será capaz de retener los aspectos 
 clave de su programación, para así aprender una nueva tarea por sí misma sin anular sus conocimientos previos.
 
-![Cerebero](img/cerebro.png "Cerebro")
+![Cerebero](../img/cerebro.png "Cerebro")
 
 [Fuente](https://www.xataka.com/robotica-e-ia/deepmind-la-inteligencia-artificial-de-google-ya-es-capaz-de-recordar-y-usar-lo-aprendido-en-nuevas-tareas "Fuente")

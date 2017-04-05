@@ -7,7 +7,7 @@ categories: redes
 
 ## Más de 100 nuevos emojis llegarán a partir de junio
 
-![Emojis](img/nuevosemojis.png "Nuevos Emojis")
+![Emojis](../img/nuevosemojis.png "Nuevos Emojis")
 
 Los emojis se han convertido en un lenguaje universal. 
 El catálogo no deja de crecer y seguirá haciéndolo durante 

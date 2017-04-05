@@ -9,7 +9,7 @@ categories: peliculas
 El adelanto de la película del payaso generó 197 millones de visitas a 
 nivel mundial en sus primeras 24 horas, superando la marca que en diciembre había impuesto "Rápido y furioso 8".
 
-![IT](img/it_payaso.png "IT")
+![IT](../img/it_payaso.png "IT")
 
 "It" ha desplazado  “Rápido y Furioso 8” (The Fate of the Furious), 
 estableciendo el récord del tráiler más visto en Internet en un solo día.
