@@ -2,7 +2,7 @@
 title: It rompe records en Youtube
 description: It se corona como trailer más reproducido en Youtube.
 header: It rompe records en Youtube
-categories: peliculas
+categories: Peliculas
 ---
 
 **"It"** rompe récord del tráiler más visto en Internet en un solo día.
