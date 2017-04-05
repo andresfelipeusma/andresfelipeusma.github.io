@@ -18,7 +18,7 @@ o a la longevidad del funcionamiento de este órgano. Los primeros avances de
 la compañía estarán destinados a combatir enfermedades cerebrales crónicas como 
 la epilepsia y las depresiones graves, según el citado medio.
 
-![Neura](img/cerebro_neura.png "Neura")
+![Neura](../img/cerebro_neura.png "Neura")
 
 La nueva 'startup' aspira a encontrar una forma de llevar a cabo lo que 
 denominan 'conexiones neuronales' entre el cerebro y un ordenador. Por el 
@@ -31,6 +31,6 @@ Además de Tesla, el empresario también posee SpaceX, la compañía de
 transporte aeroespacial que ofrece viajes en el espacio y que planea 
 llegar a Marte a partir de 2022, según el propio Musk.
 
-![Neura2](img/cerebro2.png "Neura2")
+![Neura2](../img/cerebro2.png "Neura2")
 
 [Fuente](http://www.eitb.eus/es/noticias/tecnologia/detalle/4734745/elon-musk-funda-neuralink-fusionar-cerebro-ordenador/ "Fuente")
