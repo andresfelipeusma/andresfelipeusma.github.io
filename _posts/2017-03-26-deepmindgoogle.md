@@ -36,3 +36,4 @@ clave de su programación, para así aprender una nueva tarea por sí misma sin 
 
 ![Cerebero](img/cerebro.png "Cerebro")
 
+[Fuente](https://www.xataka.com/robotica-e-ia/deepmind-la-inteligencia-artificial-de-google-ya-es-capaz-de-recordar-y-usar-lo-aprendido-en-nuevas-tareas "Fuente")
