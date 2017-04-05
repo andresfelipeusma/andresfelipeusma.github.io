@@ -1,7 +1,7 @@
 ---
-title: Nuevo Projecto conectar cerebro a un ordenador.
+title: Nuevo Projecto conectar cerebro a un ordenador
 description: Nuevo projecto para conectar un cerebro a un ordenador
-header: Nuevo Projecto conectar cerebro a un ordenador.
+header: Nuevo Projecto conectar cerebro a un ordenador
 ---
 
 ![Elon Musk](img/elon_musk.png "Elon Musk")
