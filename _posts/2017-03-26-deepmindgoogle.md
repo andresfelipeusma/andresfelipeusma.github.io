@@ -2,6 +2,7 @@
 title: DeepMind Google
 description: DeepMind, la inteligencia artificial de Google.
 header: DeepMind Google
+author: Andres Usma
 ---
 
 [![DeepMind](img/deepmind.png)](https://deepmind.com/)
@@ -26,3 +27,11 @@ capaz de derrotar juegos de Atari, incluso superando las puntuaciones de
 los seres humanos, pero DeepMind no recuerda cómo lo hizo. Para cada juego 
 se desarrollaba una red neuronal basada en la información de cómo jugar y 
 cuál era el objetivo, es decir, una red neuronal entrenada para Space Invaders no era capaz de jugar Pac-Man.
+
+La capacidad de aprender tareas de forma sucesiva y sin olvidarlas es 
+una capacidad de la inteligencia biológica y artificial, sin embargo, 
+la artificial ha sido incapaz de transferir ese aprendizaje a una nueva tarea. 
+Pero ahora, gracias al EWC la red neuronal será capaz de retener los aspectos 
+clave de su programación, para así aprender una nueva tarea por sí misma sin anular sus conocimientos previos.
+
+![Cerebero](img/cerebro.png "Cerebro")
