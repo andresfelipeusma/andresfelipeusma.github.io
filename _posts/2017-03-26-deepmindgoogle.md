@@ -35,3 +35,4 @@ Pero ahora, gracias al EWC la red neuronal será capaz de retener los aspectos
 clave de su programación, para así aprender una nueva tarea por sí misma sin anular sus conocimientos previos.
 
 ![Cerebero](img/cerebro.png "Cerebro")
+

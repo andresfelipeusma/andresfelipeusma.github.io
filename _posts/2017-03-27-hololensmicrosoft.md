@@ -65,3 +65,8 @@ películas y más quedan plasmados en tu salón para que los visites en primera 
 Toda una experiencia.
 
 ![Hololens](img/hologif5.gif "Hololens5")
+
+Por el momento no tenemos más noticias sobre las Hololens, ni el futuro que le depara
+pero es un gran avance para la industria de los videojuegos.
+
+[Fuente](http://www.meristation.com/noticias/hololens-cinco-usos-de-hologramas-en-videojuegos/2036261 "Fuente")
