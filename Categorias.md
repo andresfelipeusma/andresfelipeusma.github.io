@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /categorias/
+title: Categorias
 ---
 
 
@@ -12,7 +12,7 @@ title: Categories
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h1 class="category-head">{{ category_name }}</h1>
+    <h2 class="category-head">{{ category_name }}</h2>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
