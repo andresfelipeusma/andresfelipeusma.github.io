@@ -1,5 +1,5 @@
 ---
-layout: tagcloud
+layout: page
 permalink: /tag_cloud/
 title: Tag Cloud
 ---
