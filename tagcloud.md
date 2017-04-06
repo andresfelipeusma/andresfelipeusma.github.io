@@ -4,7 +4,7 @@ permalink: /tag_cloud/
 title: Tag Cloud
 ---
 
-<h1>Tag Cloud</h1>
+<h2>Tag Cloud</h2>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">

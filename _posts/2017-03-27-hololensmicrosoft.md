@@ -4,6 +4,7 @@ title: Hololens de microsoft
 description: Hololens de microsoft
 header: Hololens de Microsoft
 categories: Videojuegos
+tags: videojuegos
 ---
 
 **Microsoft** sorprendió hace 2 años al mundo tecnológico en la presentación de 
