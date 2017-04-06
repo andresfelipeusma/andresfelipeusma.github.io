@@ -4,7 +4,7 @@ description: DeepMind, la inteligencia artificial de Google.
 header: DeepMind Google
 author: Andres Usma
 categories: Ciencia
-tags: ciencia
+tags: [ciencia, otros]
 ---
 
 [![DeepMind](../img/deepmind.png)](https://deepmind.com/)
