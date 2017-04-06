@@ -4,3 +4,9 @@
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+.site-tag a {
+    display: inline-block;
+    margin-right: 12px;
+}
+
