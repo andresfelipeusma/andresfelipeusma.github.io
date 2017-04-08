@@ -3,7 +3,7 @@ title: 100 Nuevos Emojis llegarán a partir de Junio
 description: 100 nuevos emojis
 header: 100 Nuevos Emojis
 categories: Redes
-tags: [redes, moviles, otros, redes sociales]
+tags: [Moviles, Otros, Redes Sociales]
 ---
 
 ## Más de 100 nuevos emojis llegarán a partir de junio
