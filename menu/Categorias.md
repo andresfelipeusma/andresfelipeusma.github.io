@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categorias/
 title: Categorias
+description: Categorias del blog.
 ---
 
 

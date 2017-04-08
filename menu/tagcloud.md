@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /tag_cloud/
 title: Tag Cloud
+description: Tag Cloud del blog.
 ---
 # Tag Cloud 
 
