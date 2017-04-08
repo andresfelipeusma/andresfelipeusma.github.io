@@ -1,7 +1,7 @@
 ---
-title: Nuevo Projecto conectar cerebro a un ordenador
-description: Nuevo projecto para conectar un cerebro a un ordenador
-header: Nuevo Projecto conectar cerebro a un ordenador
+title: Nuevo proyecto conectar cerebro a un ordenador
+description: Nuevo proyecto para conectar un cerebro a un ordenador
+header: Nuevo proyecto conectar cerebro a un ordenador
 categories: Ciencia
 tags: [Ciencia, Ordenadores, Inteligencia Artificial]
 ---
