@@ -1,6 +1,6 @@
 ---
 layout: page
-title: categorias
+title: Categorias
 description: Categorias del blog.
 ---
 
