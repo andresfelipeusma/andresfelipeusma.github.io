@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Paginas Interesantes
-description: Algunos links interesantes.
+title: Blogs de interés
+description: Algunos blogs interesantes de mis compañers.
 ---
-### Paginas Interesantes
+### Blogs de interés
 
-| | [![Xataka](../img/xataka_logo.png){:height="250px" width="300px"}](https://www.xataka.com/) |
+[El gimnasio de Adri](https://adriisotuu.github.io/ "El gimnasio de Adri")
 
-[Xataka Canal Youtube](https://www.youtube.com/user/XatakaTV "Xataka Youtube")
-
-| | [![CH](../img/CH_logo.png){:height="250px" width="300px"}](http://computerhoy.com/) |
-
-[Computer Hoy Youtube](https://www.youtube.com/user/ComputerhoyTV "CH Youtube")
+[Pekyll's Games](https://pprieto8.github.io "Pekyll's Games")
