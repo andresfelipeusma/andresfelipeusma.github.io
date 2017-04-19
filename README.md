@@ -15,7 +15,7 @@ Contacto: [Contacto](https://andresfelipeusma.github.io/menu/contacto)
 
 #### Autor del tema de Jekyll
 
-Autor: Dyuti Barma 
-Github: [Github](https://github.com/dyutibarma/monochrome)
-Demo: [Demo](https://dyutibarma.github.io/monochrome/)
-Licencia: [Licencia](https://github.com/dyutibarma/monochrome/blob/master/license.md)
+Autor: Dyuti Barma  
+Github: [Github](https://github.com/dyutibarma/monochrome)  
+Demo: [Demo](https://dyutibarma.github.io/monochrome/)  
+Licencia: [Licencia](https://github.com/dyutibarma/monochrome/blob/master/license.md)  
